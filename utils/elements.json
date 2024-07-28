@@ -1,0 +1,28 @@
+{
+  "url":"https://www.amazon.in/",
+  "mobile_number":"7892371871",
+  "password":"00000@Raki",
+  "signin_button":"//div[@id='rhf']//span[contains(text(),'Sign in')]",
+  "username_textfield":"//input[@id='ap_email_login']",
+  "continue_button":"//span[@id='continue']",
+  "password_textfield":"//input[@id='ap_password']",
+  "proceed_to_signin_button":"//input[@id='signInSubmit']",
+  "search_textfield":"//input[@id='twotabsearchtextbox']",
+  "search_button":"//input[@id='nav-search-submit-button']",
+  "validate_search_result_shoes":"(//span[contains(text(),'Shoes')])[1]//ancestor::h1",
+  "homepage_rakesh_amazon":"https://www.amazon.in/ref=rhf_sign_in",
+  "click_to_find_signin_button":"//span[@id='nav-link-accountList-nav-line-1']",
+  "my_profile_name":"//span[@id='nav-link-accountList-nav-line-1']",
+  "brand_filter":"//div[@id='brandsRefinements']",
+  "specific_brand":"//li[@aria-label='BRAND']//following-sibling::i",
+  "see_more":"(//span[contains(text(),'See more')])[1]",
+  "size_filter":"(//div[@id='filters']//ul)[1]",
+  "specific_size":"//button[@value = 'INDEX']",
+  "filtered_item":"(//h2//span[contains(text(),'BRAND')])[1]",
+  "filtered_item_img":"(//div[@class='s-image-padding'])[1]",
+  "validate_size":"//select[@id='native_dropdown_selected_size_name']",
+  "add_to_cart_button":"//span[@id='submit.add-to-cart']",
+  "select_size_before_adding_to_cart":"//select[@id='native_dropdown_selected_size_name']//option[@id='VALUE']"
+
+
+}
