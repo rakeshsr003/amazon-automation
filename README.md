@@ -7,3 +7,4 @@ once the login is successful, we are storing a session into one json file and th
 Now run the command - npx playwright test --project=tests
 Running the above command will actually utilize the session stored by login test and directly starts testing the functionality.
 when we run the tests project, all the tests will run parallely.
+Run command to view the report - npx playwright show-report
